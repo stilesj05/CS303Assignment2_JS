@@ -8,15 +8,22 @@ Here are pictures of the terminal output:
 
 
 LIST FUNCTIONALITY
+
 Testing EMPTY on empty list and INSERT functionality:
+
 https://github.com/user-attachments/assets/92abf5a1-8dc2-47ba-9cd2-430eb51b6ae2
 
+
 Testing REMOVE, PUSH_FRONT, PUSH_BACK, FRONT, POP_FRONT, BACK, POP_BACK Functionality:
+
 https://github.com/user-attachments/assets/200038de-6c69-46b7-bed2-f3ddaec093e4
 
+
 Testing FIND and EMPTY with an occupied list:
+
 https://github.com/user-attachments/assets/6d5bde75-7bd9-4a7c-acbb-c475ffae4f22
 
 
 STACK FUNCTIONALITY:
+
 https://github.com/user-attachments/assets/b5d51b00-0e33-4d1b-8b3f-a955e16fb88e
